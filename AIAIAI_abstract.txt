@@ -1,0 +1,2 @@
+This report describes the Python implementation of an Artificial Neural Network, capable to deal with both classification and regression tasks, and shows its results on Monk and ML-CUP21 problems.
+The final model for the CUP problem was selected through a grid search over hundreds of hyper-parametric configurations using the K-Fold cross-validation strategy and then tested on an internal test set with Hold Out
